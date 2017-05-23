@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My Attitude on Doing what I have no Confidence in
+title: My Attitude towards Doing what I have no Confidence in
 date: 2017-05-20 11:57:21 +0800
 ---
 
