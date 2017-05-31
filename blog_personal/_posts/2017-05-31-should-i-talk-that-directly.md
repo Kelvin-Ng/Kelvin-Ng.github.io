@@ -6,7 +6,7 @@ title: Should I Talk that Directly?
 
 'Maybe I should change how I talk with you', she said, after I have expressed my negative opinion on indirect way of communication. It is unfair to her if she changes her way to talk to me while I do not.
 
-Both of our ways of communication based on a Chinese saying, 己所不欲，勿施於人. She does not want others to talk too directly to her, so she talks indirectly to others. In contrast, I do not want others to talk indirectly to me, so I talk directly to others.
+Both of our ways of communication are based on a Chinese saying, 己所不欲，勿施於人. She does not want others to talk too directly to her, so she talks indirectly to others. In contrast, I do not want others to talk indirectly to me, so I talk directly to others.
 
 However, this is only the 'first order' understanding on the saying. The 'second order' understanding is that, if one doesn't want others to use the way of communication that he doesn't like, he should use the way of communication that the other likes. This is inapplicable when talking with those unfamiliar people, but applicable when talking with (close) friends.
 
@@ -20,7 +20,7 @@ So, problems arise:
 
 It seems that there are many other possibilities, but I do not want to exhaust them.
 
-It looks to me that logic goes well only when both of us feel OK to change our way of communication. However, for now we are assuming that we can only choose to change or not to change, without the gray area. In fact, both of us can refine our way of communication to a suitable extent so as to comfort each other to some extent without discomforting ourselves too much (if it does). However, this is so 'gray' that I have no clue about how to carry it out.
+It looks to me that logic goes well only when both of us feel OK to change our way of communication. However, for now I am assuming that we can only choose to change or not to change, without the gray area. In fact, both of us can refine our way of communication to a suitable extent so as to comfort each other to some extent without discomforting ourselves too much (if it does). However, this is so 'gray' that I have no clue about how to carry it out.
 
 With the sentence at the beginning, it seems that she feels OK to change her way of communication. The problem remaining is whether I am OK with that too, but I don't know.
 
