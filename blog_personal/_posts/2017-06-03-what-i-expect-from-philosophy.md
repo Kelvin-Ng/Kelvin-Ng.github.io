@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What I Expect from Philosophy
-date: 2017-06-03 18:52:48 +0800
+date: 2017-06-03 22:00:50 +0800
 ---
 
 Philosophy is a big topic. However, I only care about the part telling me how to lead a good life, or more formally, how to achieve happiness.
