@@ -18,6 +18,8 @@ You said you'll maintain your principle once you gain more power.
 
 But you never do.
 
+<br> <br>
+
 Gaining of power is gradual.
 
 Maintaining different principles in different situations requires different level of power.
