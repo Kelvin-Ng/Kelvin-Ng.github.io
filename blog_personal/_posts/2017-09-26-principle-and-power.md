@@ -32,5 +32,7 @@ Use the power you get to maintain what you can.
 
 Never forget your principle.
 
+Never forget maintaining your principle.
+
 勿忘初心。
 
