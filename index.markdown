@@ -8,8 +8,8 @@ My research interests are in the broad area of systems and networking. My curren
 
 ## Publications
 
-**MimicNet: Fast Performance Estimates for Data Center Networks with Machine Learning**
-Qizhen Zhang, **Kelvin K.W. Ng**, Charles Kazer, Shen Yan, João Sedoc, Vincent Liu
+**MimicNet: Fast Performance Estimates for Data Center Networks with Machine Learning**  
+Qizhen Zhang, **Kelvin K.W. Ng**, Charles Kazer, Shen Yan, João Sedoc, Vincent Liu  
 SIGCOMM 2021 \[[PDF](https://dl.acm.org/doi/10.1145/3452296.3472926)\]
 
 **Norm-Explicit Quantization: Improving Vector Quantization for Maximum Inner Product Search**  
