@@ -2,11 +2,15 @@
 layout: default
 ---
 
-I am a second-year Computer and Information Science PhD student at the [University of Pennsylvania](https://www.cis.upenn.edu), advised by [Vincent Liu](http://vincen.tl). Before Penn, I completed my undergraduate at [The Chinese University of Hong Kong](http://www.cse.cuhk.edu.hk) and worked closely with [James Cheng](http://www.cse.cuhk.edu.hk/~jcheng).
+I am a third-year Computer and Information Science PhD student at the [University of Pennsylvania](https://www.cis.upenn.edu), advised by [Vincent Liu](http://vincen.tl). Before Penn, I completed my undergraduate at [The Chinese University of Hong Kong](http://www.cse.cuhk.edu.hk) and worked closely with [James Cheng](http://www.cse.cuhk.edu.hk/~jcheng).
 
-My research interests are in the broad area of systems and networking. My current and past research focuses especially on machine learning in the systems context. I am currently designing a low-latency machine learning inference framework that facilitates the application of machine learning on critical decision-making in systems.
+My research interests are in the broad area of systems and networking. My current and past research focuses especially on machine learning in the systems context. I am currently working on low-latency machine learning inference that facilitates the application of machine learning on critical decision-making in systems.
 
 ## Publications
+
+**MimicNet: Fast Performance Estimates for Data Center Networks with Machine Learning**
+Qizhen Zhang, **Kelvin K.W. Ng**, Charles Kazer, Shen Yan, João Sedoc, Vincent Liu
+SIGCOMM 2021 \[[PDF](https://dl.acm.org/doi/10.1145/3452296.3472926)\]
 
 **Norm-Explicit Quantization: Improving Vector Quantization for Maximum Inner Product Search**  
 Xinyan Dai, Xiao Yan, **Kelvin K.W. Ng**, Jie Liu, James Cheng  
