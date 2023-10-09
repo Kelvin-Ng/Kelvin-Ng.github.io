@@ -2,13 +2,19 @@
 layout: default
 ---
 
-I am a third-year Computer and Information Science PhD student at the [University of Pennsylvania](https://www.cis.upenn.edu), advised by [Vincent Liu](http://vincen.tl). Before Penn, I completed my undergraduate at [The Chinese University of Hong Kong](http://www.cse.cuhk.edu.hk) and worked closely with [James Cheng](http://www.cse.cuhk.edu.hk/~jcheng).
+I am a fifth-year Computer and Information Science PhD student at the [University of Pennsylvania](https://www.cis.upenn.edu), advised by [Vincent Liu](http://vincen.tl). Before Penn, I completed my undergraduate at [The Chinese University of Hong Kong](http://www.cse.cuhk.edu.hk) and worked closely with [James Cheng](http://www.cse.cuhk.edu.hk/~jcheng).
 
-My research interests are in the broad area of systems and networking. My current and past research focuses especially on machine learning in the systems context. I am currently working on low-latency machine learning inference that facilitates the application of machine learning on critical decision-making in systems.
+My research interests are in the broad area of systems, especially in the context of machine learning. I am currently working on efficient machine learning serving for models with shared backbones (e.g., fine-tuned models).
 
 ## Publications
 
+**Paella: Low-latency Model Serving with Software-defined GPU Scheduling**  
+[Artifacts Available, Artifacts Functional, Results Reproduced]  
+**Kelvin K.W. Ng**, Henri Maxime Demoulin, Vincent Liu  
+SOSP 2023 \[[PDF](assets/sosp2023-final224.pdf)\]
+
 **MimicNet: Fast Performance Estimates for Data Center Networks with Machine Learning**  
+[Artifacts Available, Artifacts Functional, Results Reproduced]  
 Qizhen Zhang, **Kelvin K.W. Ng**, Charles Kazer, Shen Yan, João Sedoc, Vincent Liu  
 SIGCOMM 2021 \[[PDF](https://dl.acm.org/doi/10.1145/3452296.3472926)\]
 
