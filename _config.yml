@@ -19,10 +19,12 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Kelvin Ng
-email: kelvinng@seas.upenn.edu
+email: nkwkelvin@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
+  Kelvin K.W. Ng is an Applied Scientist at AWS working on systems for
+  distributed machine-learning training and inference.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://kelvin-ng.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username: Kelvin-Ng
 
@@ -34,6 +36,13 @@ plugins:
 
 scholar:
   style: my-ieee-with-url.csl
+
+# Minima 2.x still uses legacy Sass APIs internally. Keep dependency-only
+# deprecation warnings out of local and CI builds until Minima 3 is stable.
+sass:
+  quiet_deps: true
+  silence_deprecations:
+    - import
 
 # Exclude from processing.
 # The following items will not be processed, by default.
